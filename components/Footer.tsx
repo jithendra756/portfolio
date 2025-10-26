@@ -32,7 +32,7 @@ const Footer = async () => {
 
                 <div className="">
                     <a
-                        href="https://github.com/jithendra756/portfolio-2.0"
+                        href="https://github.com/jithendra756/portfolio"
                         target="_blank"
                         className="leading-none text-muted-foreground hover:underline hover:text-white"
                     >
