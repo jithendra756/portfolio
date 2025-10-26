@@ -1,6 +1,6 @@
 # 🚀 My Portfolio Website
 
-![image](https://github.com/user-attachments/assets/ade45c4b-b2cb-46cb-b8a6-31cad3bd0c5a)
+![image]([https://github.com/user-attachments/assets/ade45c4b-b2cb-46cb-b8a6-31cad3bd0c5a](https://github.com/jithendra756/50-proj-hcj/blob/main/image.png))
 
 ## 🚨 Forking this repo (please read!)
 
@@ -13,8 +13,6 @@ Please also note that I did not build this site with the intention of it being a
 If you like my work, give it a star⭐.
 
 ### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [tajmirul.site](https://tajmirul.site/). Thanks!
 
 ## 🛠 Installation & Set Up
 
