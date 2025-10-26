@@ -1,6 +1,6 @@
 # 🚀 My Portfolio Website
 
-![image]((https://github.com/jithendra756/50-proj-hcj/blob/main/image.png))
+![image](https://github.com/jithendra756/50-proj-hcj/blob/main/image.png?raw=true)
 
 ## 🚨 Forking this repo (please read!)
 
