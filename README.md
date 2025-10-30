@@ -38,3 +38,5 @@ _This readme is inspired from [Brittany Chiang's github](https://github.com/bchi
 
 ## 📄 License
 This project is open source and available under the [MIT License](https://github.com/jithendra756/portfolio/blob/main/LICENSE).
+
+Based on [MIT License](https://github.com/Tajmirul/portfolio-2.0/blob/main/LICENSE). Customized with my own projects and details.
